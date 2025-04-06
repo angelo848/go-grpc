@@ -81,6 +81,8 @@ Example usage:
 3. `service CategoryService`: Select the CategoryService
 4. `call <rpc_service>` (e.g.: `call ListCategories` )`: Call the desired rpc
 
+https://github.com/user-attachments/assets/ec29666c-b5b9-4abb-b796-29a80c55a488
+
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
